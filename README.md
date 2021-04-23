@@ -20,3 +20,6 @@ open terminal in that folder, or cd into it and run python3 ./d3rpc.py
 
 Feel free to add me on Discord or DM me here.
 SailorZoop#9082
+
+
+Thanks to Commando950 for helping me with the dictionary and connection check.
