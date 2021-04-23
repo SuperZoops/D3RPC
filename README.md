@@ -6,7 +6,9 @@ APIs are a hassle. Feel free to fork though.
 
 Installation
 
-you need python3 installed until I compile this into an executable
+Just get the executable for either Windows or Linux in the releases tab.
+
+you need python3 installed ~~until I compile this into an executable~~
 
 modules
 pip install tkinter
