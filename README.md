@@ -11,8 +11,8 @@ APIs are a hassle. Feel free to fork though.
 you need python3 installed ~~until I compile this into an executable~~
 
 *modules*
->pip install tkinter
->pip install pypresence
+>- pip install tkinter
+>- pip install pypresence
 
 *download *
 the main branch source code and extract it to some folder
@@ -24,10 +24,10 @@ Feel free to add me on Discord or DM me here.
 SailorZoop#9082
 
 **Things to add**
->always on top button
->figure out how to pack the png background in executables
->get actual blizzard's API working
->connection status indicator
+>- always on top button
+>- figure out how to pack the png background in executables
+>- get actual blizzard's API working
+>- connection status indicator
 
 
 Thanks to Commando950 for helping me with the dictionary and connection check.
