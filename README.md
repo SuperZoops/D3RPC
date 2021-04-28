@@ -31,3 +31,10 @@ SailorZoop#9082
 
 
 Thanks to Commando950 for helping me with the dictionary and connection check.
+
+![image](https://user-images.githubusercontent.com/26927890/116476301-524aa700-a87b-11eb-9e22-88e109492bda.png)
+
+![image](https://user-images.githubusercontent.com/26927890/116476391-73ab9300-a87b-11eb-8a05-58c26aa7670f.png)
+
+![d3rpcscreenshot](https://user-images.githubusercontent.com/26927890/116476193-29c2ad00-a87b-11eb-99f3-6f8a860e4c30.png)
+
