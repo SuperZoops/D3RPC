@@ -4,34 +4,26 @@ Diablo 3 Discord Rich Presence
 Quick and dirty way to get Discord's Rich Presence working with Diablo 3. You have to set everything up manually for now.
 APIs are a hassle. Feel free to fork though.
 
-**Installation**
+# Library Dependencies
 
->Just get the executable for either Windows or Linux in the releases tab.
+**pip (Linux, Mac, Windows)**
 
-you need python3 installed ~~until I compile this into an executable~~
-
-# pip
-
-*modules*
 >- pip install tkinter
 >- pip install pypresence
 
-# Arch Linux
+**Arch Linux**
+(It's not a great idea to mix in pip packages on Arch as nearly everything is on the AUR or normal repos already.)
 
 >- pacman -S tk
 >- yay -S python-pypresence
 
+# Running
 
-*download *
-the main branch source code and extract it to some folder
+>- python3 d3rpc.py
 
-*running it*
-open terminal in that folder, or cd into it and run python3 ./d3rpc.py
 
-Feel free to add me on Discord or DM me here.
-SailorZoop#9082
 
-**Things to add**
+# Things to add (Most likely won't ever happen)
 >- always on top button
 >- figure out how to pack the png background in executables
 >- get actual blizzard's API working
