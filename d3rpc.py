@@ -1,13 +1,19 @@
-#
 from pypresence import Presence
 from pypresence import Client
 from tkinter import *
 import time
+import os 
 
 time = time.time()
 client_id = '835127760849993798'        #Discord client ID
 RPC = Presence(client_id)
 Connected = False
+
+
+#stupid bg fix
+scriptpath = os.path.abspath(__file__)
+scriptdir = os.path.dirname(scriptpath)
+imagepath = os.path.join(scriptdir, "diablo.png")
 
 #Classes
 ClassList = [
@@ -119,7 +125,8 @@ chosenGenderFemale.set(PortraitListFemale[1])
 chosenGenderMale = StringVar()
 chosenGenderMale.set(PortraitListMale[1])
 
-bgdiablo = PhotoImage(file='diablo.png')
+
+bgdiablo = PhotoImage(file=imagepath)
 labelDiablo = Label(win, image=bgdiablo)
 labelDiablo.place(relx=0.5, rely=0.5, anchor=CENTER)
 
