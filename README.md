@@ -10,9 +10,17 @@ APIs are a hassle. Feel free to fork though.
 
 you need python3 installed ~~until I compile this into an executable~~
 
+# pip
+
 *modules*
 >- pip install tkinter
 >- pip install pypresence
+
+# Arch Linux
+
+>- pacman -S tk
+>- yay -S python-pypresence
+
 
 *download *
 the main branch source code and extract it to some folder
