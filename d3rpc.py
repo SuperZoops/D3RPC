@@ -102,7 +102,7 @@ ActivityList = [
 win = Tk()
 win.geometry('200x400')
 win.resizable(False, False)
-win.iconbitmap('d3rpc.ico')
+#win.iconbitmap(default='d3rpc.ico')
 win.title('D3RPC - The dumb manual Diablo 3 rich presence.')
 can = Canvas(win, bg='#21252B', height=400, width=200) #21252B dark #282C34 light
 can.place(relx=0.5, rely=0.5, anchor=CENTER)
